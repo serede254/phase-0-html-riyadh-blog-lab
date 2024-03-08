@@ -5,13 +5,13 @@ html, body {
   min-height: 100%;
 }
 
-body {
+ body {
   background: url(../images/backgrounds/architecture.jpg) center no-repeat;
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 100%;
-}
+} 
 
 .wrapper {
   margin: 0 auto;
@@ -57,7 +57,7 @@ p {
 
 a {
   color: black;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a:hover {
